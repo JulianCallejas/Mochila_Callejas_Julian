@@ -1,0 +1,20 @@
+* git init
+	En la carpeta en la que están los archivos de tu proyecto crea el repositorio.
+* git config —global user.name
+	Agregar mi nombre como autor del repositorio y los cambios.
+* git contig --global user.email IU@correo.com
+	Configurar git con nuestro correo
+* git add .
+	Agregar archivos al repositorio
+* git commit -m "mensaje"
+	Guardar los cambios realizados en el repositorio
+* git log 
+	Consultar los commits
+* git status
+	Consultar el estado de los archivos del repositorio
+* git remote add origin <url>
+	Agregar un repositorio remoto
+* git pull origin <branch>
+	Actualizar rama en el repositorio local con los datos de la rama en el repositorio remoto
+* git push origin <branch>
+	Subir cambios al repositorio remoto en la rama especificada
