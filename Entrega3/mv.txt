@@ -1,0 +1,19 @@
+Entrega 3
+
+1 ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas 
+operativos y en otros no?
+
+R: Por compatibilidad tanto en su compilación y ejecución, por ejemplo un archivo .exe o .com
+   no es ejecutable en MacOS, también puede ser que el lenguaje dependa de una librería o 
+   biblioteca precargada en el Sistema Oerativo.
+
+2. ¿Qué tipo de máquina virtual es virtualBox?
+
+R: VirtualBox es una maquina virtual de sistemas, que permite ejecutar diferentes sistemas
+   operativos en el mismo computador.
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+   demás? ¿por qué?
+
+R: No afecta a las demás, porque cada se instala de forma independiente, de modo que aunque una
+   de ellas falla, las otras siguen funcionando con normalidad.
