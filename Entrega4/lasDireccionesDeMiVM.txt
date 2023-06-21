@@ -1,0 +1,5 @@
+IP Publica: 10.0.2.15
+IP Privada: 127.0.0.1
+MAC: 08:00:27:ca:cb:9a
+
+En este caso la dirección pública y privada de la VM son diferentes.
